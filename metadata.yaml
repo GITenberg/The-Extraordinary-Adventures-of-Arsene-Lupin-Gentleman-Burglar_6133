@@ -1,0 +1,35 @@
+_repo: The-Extraordinary-Adventures-of-Arsene-Lupin-Gentleman-Burglar_6133
+_version: 0.0.1
+alternative_title: Arsène Lupin, gentleman-cambrioleur. English
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories, French -- Translations into English'
+- !lcsh 'Burglars -- Fiction'
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The arrest of Arsène Lupin -- Arsène Lupin in prison -- The escape
+  of Arsène Lupin -- The mysterious traveller -- The queen's necklace -- The seven
+  of hearts -- Madame Imbert's safe -- The black pearl -- Sherlock Holmes arrives
+  too late.
+title: The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar
+url: http://www.gutenberg.org/ebooks/6133
