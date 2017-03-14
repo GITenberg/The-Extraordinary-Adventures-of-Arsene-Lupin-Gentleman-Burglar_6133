@@ -1,6 +1,9 @@
 _repo: The-Extraordinary-Adventures-of-Arsene-Lupin-Gentleman-Burglar_6133
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Arsène Lupin, gentleman-cambrioleur. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6133#The-Extraordinary-Adventures-of-Arsene-Lupin-Gentleman-Burglar
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
